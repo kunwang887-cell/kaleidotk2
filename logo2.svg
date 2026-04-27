@@ -1,0 +1,8 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 浅青色 #20d9dd -->
+    <path d="M4 10L15 4V12L8 16L4 10Z" fill="#20d9dd"/>
+    <path d="M28 12L17 18V28L28 22V12Z" fill="#20d9dd"/>
+    <!-- 深青色 #0f4447 -->
+    <path d="M28 10L17 16V4L28 10Z" fill="#0f4447"/>
+    <path d="M4 12L15 18V28L4 22V12Z" fill="#0f4447"/>
+</svg>
